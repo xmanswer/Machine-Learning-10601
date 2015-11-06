@@ -1,0 +1,4 @@
+1. Did you receive any help whatsoever from anyone in solving this assignment? No
+
+2. Did you give any help whatsoever to anyone in solving this assignment? Yes
+I provided Xiaoyu Bai some clues on definition of error rate in 3.2.9 and 3.2.10
